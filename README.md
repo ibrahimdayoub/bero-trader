@@ -14,17 +14,27 @@ Point it at a URL, run `/clone-website`, and your AI agent will inspect the site
 
 > Click the image above to watch the full demo on YouTube.
 
-
-### My Enhanced Implementation (Bero Trader)
+### 🚀 Enhanced Implementation (Bero Trader)
 ![Bero Trader Live Implementation](docs/design-references/my-comparison.png)
 
-> 💡 **Development Note:** This is my customized, production-ready implementation of the platform (**Bero Trader**). The frontend architecture was refactored and fully localized using **OpenCode** integrated with optimized, advanced engineering prompts powered by **Gemini**. 
->
+> [!NOTE]
+> ### Bero Trader • Production-Ready Upgrade
+> 
 > **Key Upgrades Implemented:**
-> - Complete transition to **Native Next.js 16 App Router i18n** (Zero-dependency localization).
-> - Dynamic layout-aware localized **SEO Metadata** for both Arabic and English.
-> - Custom pixel-perfect Tailwind CSS components (including dynamic Gold Carat Badges).
-> - Clean, modular TypeScript structure with English-only code comments.
+> - **Native Next.js 16 i18n:** Zero-dependency multi-language localization (`ar`/`en`).
+> - **Dynamic SEO Metadata:** Fully localized layout-aware titles & descriptions.
+> - **Tailwind CSS Badges:** Custom pixel-perfect components (e.g., dynamic Gold Carat Icons).
+> - **Clean Architecture:** TypeScript standard with English-only code comments.
+>
+> ---
+> 
+> **Reverse Engineering & Educational Purpose:**
+> This repository is an independent, from-scratch frontend implementation built strictly for **educational, learning, and portfolio demonstration purposes**. It showcases the capability of handling complex responsive layouts, state management, and production-grade styling using static mock arrays.
+>
+> ---
+> 
+> **Disclaimer & Rights:**
+> All rights are reserved to their respective owners. This platform is a non-commercial, experimental clone built purely for portfolio demonstration, intending no copyright infringement.
 
 ## Quick Start
 
