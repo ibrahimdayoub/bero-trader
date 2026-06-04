@@ -1,0 +1,144 @@
+{
+  "site": {
+    "title": "موقع الليرة اليوم | أسعار العملات والذهب في سورية",
+    "description": "أسعار صرف الليرة السورية مقابل العملات الأجنبية وأسعار الذهب في سورية",
+    "footerDescription": "أسعار صرف الليرة السورية وأسعار الذهب والأخبار المالية",
+    "copyright": "© 2013–2026 الليرة اليوم. جميع الحقوق محفوظة."
+  },
+  "nav": {
+    "currencies": "العملات",
+    "gold": "الذهب",
+    "silver": "الفضة",
+    "crypto": "العملات الرقمية",
+    "energy": "الطاقة",
+    "portfolio": "المحفظة",
+    "news": "الأخبار"
+  },
+  "header": {
+    "appDownload": "التطبيق",
+    "toggleLanguage": "EN"
+  },
+  "hero": {
+    "usdPrice": "سعر الدولار الأمريكي",
+    "buySell": "شراء - مبيع",
+    "cityDefault": "دمشق - عام",
+    "cityHasaka": "الحسكة",
+    "syp": "ل.س"
+  },
+  "currencyTable": {
+    "title": "الأسعار الحالية",
+    "viewAll": "عرض جميع العملات",
+    "currency": "العملة",
+    "buy": "شراء",
+    "sell": "مبيع",
+    "change": "التغير",
+    "dollar": "دولار أمريكي",
+    "euro": "يورو",
+    "lira": "ليرة تركية",
+    "riyal": "ريال سعودي",
+    "dirham": "درهم إماراتي",
+    "pound": "جنيه مصري"
+  },
+  "gold": {
+    "title": "أسعار الذهب",
+    "viewAll": "عرض الكل",
+    "ounce": "أونصة الذهب",
+    "change24h": "تغير 24 ساعة",
+    "karat": "العيار",
+    "gramUsd": "غرام/ دولار",
+    "buySyp": "شراء (ل.س)",
+    "sellSyp": "بيع (ل.س)"
+  },
+  "silver": {
+    "title": "الفضة",
+    "viewAll": "عرض الكل",
+    "ounce": "أونصة الفضة",
+    "change24h": "تغير 24 ساعة"
+  },
+  "news": {
+    "title": "أخبار اقتصادية",
+    "viewAll": "كل الأخبار",
+    "readMore": "اقرأ المزيد",
+    "items": [
+      {
+        "date": "02‏/06‏/2026، 02:16 م",
+        "title": "فيضان الفرات يغرق 16,870 دونماً ويوقف 83 محطة مياه في دير الزور",
+        "excerpt": "أدى ارتفاع حاد في منسوب نهر الفرات إلى غمر 16,870 دونماً من الأراضي الزراعية في ريف دير الزور الغربي يوم 2 حزيران 2026، وإخراج 83 محطة مياه عن الخدمة، وإطلاق عملية صهاريج طارئة وكشف على الأضرار لتعويض المزارعين.",
+        "slug": "deir-ezzor-flood",
+        "image": "https://images.unsplash.com/photo-1497436072909-60f360e1d4b1?w=400&h=250&fit=crop&auto=format"
+      },
+      {
+        "date": "02‏/06‏/2026، 12:13 م",
+        "title": "التسليف الشعبي يستأنف قروضاً تصل إلى 10 ملايين ليرة لموظفي القطاع العام",
+        "excerpt": "",
+        "slug": "popular-loans",
+        "image": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=400&h=250&fit=crop&auto=format"
+      },
+      {
+        "date": "01‏/06‏/2026، 09:18 ص",
+        "title": "طيران الاتحاد يستأنف رحلاته بين أبوظبي ودمشق في 14 حزيران",
+        "excerpt": "",
+        "slug": "etihad-resumes",
+        "image": "https://images.unsplash.com/photo-1483450388369-9ed95738483c?w=400&h=250&fit=crop&auto=format"
+      },
+      {
+        "date": "01‏/06‏/2026، 09:18 ص",
+        "title": "عبور الطائرات في الأجواء السورية يقفز 378% إلى 11,801 رحلة في أيار",
+        "excerpt": "",
+        "slug": "airspace-transit",
+        "image": "https://images.unsplash.com/photo-1436491865332-7a61a109cc05?w=400&h=250&fit=crop&auto=format"
+      },
+      {
+        "date": "01‏/06‏/2026، 08:15 ص",
+        "title": "سوريا تسعى لتكون ممر العبور بين الخليج وأوروبا مع إعادة فتح طرق التجارة",
+        "excerpt": "",
+        "slug": "syria-transit-route",
+        "image": "https://images.unsplash.com/photo-1578575437130-527eed3abbec?w=400&h=250&fit=crop&auto=format"
+      }
+    ]
+  },
+  "energy": {
+    "title": "أسعار الوقود",
+    "viewAll": "عرض الكل",
+    "electricity": "تعرفة الكهرباء",
+    "gasoline": "بنزين",
+    "diesel": "مازوت",
+    "gas": "غاز",
+    "perLiter": "/لتر",
+    "cylinder10kg": "/أسطوانة (10 كيلو)",
+    "tier1": "الشريحة 1",
+    "tier1Desc": "منازل (أقل من 300 ك.و.س)",
+    "tier2": "الشريحة 2",
+    "tier2Desc": "منازل (أكثر من 300 ك.و.س)",
+    "tier3": "الشريحة 3",
+    "tier3Desc": "صناعي",
+    "price": "السعر",
+    "unit": "الوحدة",
+    "sypPerKwh": "ل.س/ك.و.س",
+    "syp": "ل.س",
+    "category": "الفئة"
+  },
+  "sidebar": {
+    "converter": "تحويل العملات",
+    "buy": "شراء",
+    "sell": "مبيع",
+    "worldRates": "أسعار الصرف العالمية",
+    "downloadApp": "حمل تطبيقنا",
+    "downloadDesc": "احصل على الأسعار المباشرة على هاتفك"
+  },
+  "footer": {
+    "quickLinks": "روابط سريعة",
+    "about": "عن الموقع",
+    "exchangeRates": "أسعار الصرف",
+    "gold": "الذهب",
+    "silver": "الفضة",
+    "crypto": "العملات الرقمية",
+    "energy": "الطاقة",
+    "news": "الأخبار",
+    "advertise": "أعلن معنا",
+    "contact": "اتصل بنا",
+    "api": "API",
+    "followUs": "تابعنا",
+    "more": "المزيد"
+  }
+}
