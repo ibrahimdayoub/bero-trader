@@ -14,6 +14,18 @@ Point it at a URL, run `/clone-website`, and your AI agent will inspect the site
 
 > Click the image above to watch the full demo on YouTube.
 
+
+### My Enhanced Implementation (Bero Trader)
+![Bero Trader Live Implementation](docs/design-references/my-comparison.png)
+
+> 💡 **Development Note:** This is my customized, production-ready implementation of the platform (**Bero Trader**). The frontend architecture was refactored and fully localized using **OpenCode** integrated with optimized, advanced engineering prompts powered by **Gemini**. 
+>
+> **Key Upgrades Implemented:**
+> - Complete transition to **Native Next.js 16 App Router i18n** (Zero-dependency localization).
+> - Dynamic layout-aware localized **SEO Metadata** for both Arabic and English.
+> - Custom pixel-perfect Tailwind CSS components (including dynamic Gold Carat Badges).
+> - Clean, modular TypeScript structure with English-only code comments.
+
 ## Quick Start
 
 > **Important:** Start by making your own copy with GitHub's **Use this template** button. Do not clone this template repository directly for your website project, and do not open pull requests here with your generated website.

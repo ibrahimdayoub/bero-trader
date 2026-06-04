@@ -1,4 +1,5 @@
 import { FacebookIcon, WhatsAppIcon, TelegramIcon, AppStoreIcon, GooglePlayIcon } from "@/components/icons"
+import Image from "next/image"
 
 /**
  * Site footer with brand description, quick links, about links,
@@ -49,9 +50,18 @@ export function Footer({
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
           {/* Brand column */}
           <div>
-            <div className="flex items-center gap-2 mb-3">
-              <span className="text-lg font-bold text-white">الليرة اليوم</span>
-            </div>
+            <div className="flex items-center gap-2">
+            <a href={`/${lang}`} className="flex items-center gap-2 mb-3">
+              <Image
+                src="/images/logo.svg" // Path relative to the public folder
+                alt="Bero Trader Logo"
+                width={200}            // Explicit width in pixels for optimization
+                height={100}           // Explicit height in pixels for optimization
+                className="object-contain"
+              />
+            </a>
+          </div>
+
             <p className="text-sm text-[#94a3b8] leading-relaxed">{siteDict.footerDescription}</p>
           </div>
 
