@@ -6,6 +6,7 @@ import { useLocale } from "@/i18n/locale-context"
 import { cn } from "@/lib/utils"
 import { MenuIcon } from "@/components/icons"
 import { Button } from "@/components/ui/button"
+import Image from "next/image"
 
 /**
  * Top navigation bar with sticky positioning, locale-aware nav links,
@@ -44,8 +45,14 @@ export function Header() {
           {/* Brand logo */}
           <div className="flex items-center gap-2">
             <a href={`/${lang}`} className="flex items-center gap-2">
-              <span className="text-xl font-bold text-white">الليرة اليوم</span>
-              <span className="text-xs text-[#D80027] font-medium">SYR</span>
+              <Image
+                src="/images/logo.svg" // Path relative to the public folder
+                alt="Bero Trader Logo"
+                width={200}            // Explicit width in pixels for optimization
+                height={100}           // Explicit height in pixels for optimization
+                className="object-contain"
+                priority              // Tells Next.js to load this image instantly (good for headers)
+              />
             </a>
           </div>
 
