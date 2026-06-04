@@ -54,7 +54,7 @@ export function Footer({
             <a href={`/${lang}`} className="flex items-center gap-2 mb-3">
               <Image
                 src="/images/logo.svg" // Path relative to the public folder
-                alt="Bero Trader Logo"
+                alt="Website Cloner Logo"
                 width={200}            // Explicit width in pixels for optimization
                 height={100}           // Explicit height in pixels for optimization
                 className="object-contain"

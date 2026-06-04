@@ -14,27 +14,31 @@ Point it at a URL, run `/clone-website`, and your AI agent will inspect the site
 
 > Click the image above to watch the full demo on YouTube.
 
-### 🚀 Enhanced Implementation (Bero Trader)
-![Bero Trader Live Implementation](docs/design-references/my-comparison.png)
+### 🚀 Enhanced Implementation (Website Cloner)
+![Website Cloner Live Implementation](docs/design-references/my-comparison.png)
 
 > [!NOTE]
-> ### Bero Trader • Production-Ready Upgrade
+> ### 🌟 Website Cloner • Production-Ready Upgrade
 > 
-> **Key Upgrades Implemented:**
-> - **Native Next.js 16 i18n:** Zero-dependency multi-language localization (`ar`/`en`).
-> - **Dynamic SEO Metadata:** Fully localized layout-aware titles & descriptions.
-> - **Tailwind CSS Badges:** Custom pixel-perfect components (e.g., dynamic Gold Carat Icons).
-> - **Clean Architecture:** TypeScript standard with English-only code comments.
+> **🛠️ Development Workflow:** This enhanced implementation was fully refactored, localized, and optimized in **under 2 hours of active development** utilizing **OpenCode** integrated with advanced, high-efficiency engineering prompts powered by **Gemini**.
 >
 > ---
 > 
-> **Reverse Engineering & Educational Purpose:**
-> This repository is an independent, from-scratch frontend implementation built strictly for **educational, learning, and portfolio demonstration purposes**. It showcases the capability of handling complex responsive layouts, state management, and production-grade styling using static mock arrays.
+> **✨ Key Upgrades Implemented:**
+> - **🌍 Native Next.js 16 i18n:** Zero-dependency multi-language localization (`ar`/`en`).
+> - **🔍 Dynamic SEO Metadata:** Fully localized layout-aware titles & descriptions.
+> - **🎨 Tailwind CSS Badges:** Custom pixel-perfect components (e.g., dynamic Gold Carat Icons).
+> - **⚙️ Clean Architecture:** TypeScript standard with English-only code comments.
 >
 > ---
 > 
-> **Disclaimer & Rights:**
-> All rights are reserved to their respective owners. This platform is a non-commercial, experimental clone built purely for portfolio demonstration, intending no copyright infringement.
+> **📐 Reverse Engineering & Educational Purpose:** This repository is an independent, from-scratch frontend implementation built strictly for **educational, learning, and portfolio demonstration purposes**. It showcases the capability of handling complex responsive layouts, state management, and production-grade styling using static mock arrays.
+> 
+> 🔗 *Inspired by the original template repository:* [ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template)
+>
+> ---
+> 
+> **⚠️ Disclaimer & Rights:** All rights are reserved to their respective owners. This platform is a non-commercial, experimental clone built purely for portfolio demonstration, intending no copyright infringement.
 
 ## Quick Start
 
